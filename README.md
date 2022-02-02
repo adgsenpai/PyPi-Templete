@@ -36,8 +36,8 @@ python3 -m pip install setuptools wheel twine
 
 ### Enviromental Variables
 ```
-adgsenpai@adgstudios $ TWINE_USERNAME='myusername'
-adgsenpai@adgstudios $ TWINE_USERNAME='mysupersecretpassword'
+adgsenpai@adgstudios $ PYPI_USERNAME='myusername'
+adgsenpai@adgstudios $ PYPI_PASSWORD='mysupersecretpassword'
 ```
 
 
