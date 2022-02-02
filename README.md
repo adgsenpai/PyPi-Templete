@@ -16,6 +16,9 @@ for offical documentation refer to the documentation @ [packaging.python.org](ht
 ## Publishing
 
 ### `DevOps` / `GitHub Actions` way pushing
+- Add two actions secrets 
+  `PY_PASSWORD` and `PY_USERNAME`
+
 - Enable `Actions` in `main.yml` you will find config.
 
 - In `Actions` you can run your `workflow_dispatch` manually
